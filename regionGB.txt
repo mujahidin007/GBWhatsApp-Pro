@@ -1,5 +1,5 @@
 {
-  "regionGB_upd": [
+  "regionGB": [
     {
  "version":"GBWhatsApp",
  "title":"GBWhatsApp Sudah Terbaru",
